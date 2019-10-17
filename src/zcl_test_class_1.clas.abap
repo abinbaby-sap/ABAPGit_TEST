@@ -1,0 +1,15 @@
+CLASS zcl_test_class_1 DEFINITION
+  PUBLIC
+  FINAL
+  CREATE PUBLIC .
+
+  PUBLIC SECTION.
+     data : int_value type i.
+  PROTECTED SECTION.
+  PRIVATE SECTION.
+ENDCLASS.
+
+
+
+CLASS zcl_test_class_1 IMPLEMENTATION.
+ENDCLASS.
