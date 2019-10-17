@@ -12,4 +12,5 @@ ENDCLASS.
 
 
 CLASS zcl_test_class_1 IMPLEMENTATION.
+
 ENDCLASS.
